@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '50a48c608ecb89296d8245591ab9ff03e7e5045c',
         'name' => 'gean/buscador-cursos',
         'dev' => true,
     ),
@@ -47,12 +47,12 @@
             'dev_requirement' => true,
         ),
         'gean/buscador-cursos' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '50a48c608ecb89296d8245591ab9ff03e7e5045c',
             'dev_requirement' => false,
         ),
         'guzzlehttp/guzzle' => array(
